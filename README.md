@@ -12,6 +12,7 @@ I'm a software engineer and research scientist in training as a Ph.D. student un
 - 💬 Ask me about social issues, intersection between tech and personal identities, or if you just want to chat, I am happy to meet and get to know more people. 
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
+- 👯 Updates : Tapia scholar 2020. Actively looking for research internship opportunity for summer, 2021 in the field of ML, NLP, SLT, CV, etc.
 
 
 ### You can find me on:
