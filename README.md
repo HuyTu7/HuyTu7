@@ -1,5 +1,7 @@
 <h1> Hi! I'm <a href="http://kentu.us" target="_blank">Ken Tu</a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"></h1>
 
+![](https://visitor-badge.glitch.me/badge?page_id=HuyTu7)
+
 <!--
 **HuyTu7/HuyTu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
 I'm a software engineer and research scientist in training as a Ph.D. student under [Dr. Menzies](http://menzies.us/)(h-index: 57) and some industry experience, ex-Pinterest ML Engineer Intern in Users Personalization and ex-Amazon Applied Scientist Intern in Multilingual Understanding. I am passionate about making socio-tech environment more accessible while creating technologies to elevate folks in marginalized communities, and building sustainable community. 
