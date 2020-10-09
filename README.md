@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**HuyTu7/HuyTu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HuyTu7/HuyTu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
 
 
 - 🔭 I’m currently exploring ML and Web-Development, looking for opportunities to contribute to open source
