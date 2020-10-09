@@ -1,4 +1,4 @@
-<h2> Hi! I'm <a href="http://kentu.us" target="_blank">Ken Tu</a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h2>
+<h1> Hi! I'm <a href="http://kentu.us" target="_blank">Ken Tu</a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"></h1>
 
 <!--
 **HuyTu7/HuyTu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
