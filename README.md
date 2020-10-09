@@ -4,10 +4,12 @@
 **HuyTu7/HuyTu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
 I'm a software engineer and research scientist who is passionate about making socio-tech environment more accessible while creating technologies to elevate folks in marginalized communities, and building sustainable community. 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+
 - 🔭 I’m currently exploring the synergy between ML and SE for non-traditional software development such as computational scientists.
 - 🌱 I’m currently learning optimization techniques in DL, CV along with cooking and playing guitar.
 - 👯 I’m looking to collaborate on ML competitions
-- 💬 Ask me about social issues, intersection between tech and personal identities, 
+- 💬 Ask me about social issues, intersection between tech and personal identities, or if you just want to chat, I am happy to meet and get to know more people. 
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
 
