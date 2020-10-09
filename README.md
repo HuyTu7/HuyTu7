@@ -6,6 +6,8 @@
 **HuyTu7/HuyTu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
 I'm a software engineer and research scientist in training as a Ph.D. student under [Dr. Menzies](http://menzies.us/)(h-index: 57) and some industry experience, ex-Pinterest ML Engineer Intern in Users Personalization and ex-Amazon Applied Scientist Intern in Multilingual Understanding. I am passionate about making socio-tech environment more accessible while creating technologies to elevate folks in marginalized communities, and building sustainable community. 
 
+--
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="75"> A little more about me... 
 
 - 🔭 I’m currently exploring the synergy between ML and SE for non-traditional software development such as computational scientists.
