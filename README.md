@@ -2,14 +2,13 @@
 
 <!--
 **HuyTu7/HuyTu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
+I'm a software engineer and research scientist who is passionate about making socio-tech environment more accessible while creating technologies to elevate folks in marginalized communities, and building sustainable community. 
 
-
-- 🔭 I’m currently exploring ML and Web-Development, looking for opportunities to contribute to open source
-- 🌱 I’m currently learning Machine Learning, React-Native and a lot more
-- 👯 I’m looking to collaborate on Web Development and ML competitions
-- 🤔 I’m looking for help with ML competitions
-- 💬 Ask me about React, Web Development(Front-end), Tensorflow, Keras, Basic ML models
-- 📫 How to reach me: [E-mail](mailto:wadhwakushagra01@gmail.com?subject=[GitHub]%20Source%20Readme)  [LinkedIn](https://www.linkedin.com/in/kushagra-wadhwa12/)
+- 🔭 I’m currently exploring the synergy between ML and SE for non-traditional software development such as computational scientists.
+- 🌱 I’m currently learning optimization techniques in DL, CV along with cooking and playing guitar.
+- 👯 I’m looking to collaborate on ML competitions
+- 💬 Ask me about social issues, intersection between tech and personal identities, 
+- 📫 How to reach me: [E-mail](mailto:hqtu@ncsu.edu?subject=[GitHub]%20Source%20Readme)  [LinkedIn](https://www.linkedin.com/in/huytu/)
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
 
