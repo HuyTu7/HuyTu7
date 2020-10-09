@@ -10,7 +10,7 @@ I'm a software engineer and research scientist in training as a Ph.D. student un
 
 - 🔭 I’m currently exploring the synergy between ML and SE for non-traditional software development such as computational scientists.
 - 🌱 I’m currently learning optimization techniques in DL, CV along with cooking and playing guitar.
-- 👯 I’m looking to collaborate on ML competitions
+- 💻 I’m looking to collaborate on ML competitions
 - 💬 Ask me about social issues, intersection between tech and personal identities, or if you just want to chat, I am happy to meet and get to know more people. 
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
