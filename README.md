@@ -31,4 +31,4 @@ I'm a software engineer and research scientist in training as a Ph.D. student un
 [linkedin]: https://www.linkedin.com/in/huytu/
 
 
-[![Ken's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=HuyTu7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=HuyTu7)
+[![Ken's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=HuyTu7&show_icons=true&title_color=fff&icon_color=F2BDFF&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=HuyTu7)
