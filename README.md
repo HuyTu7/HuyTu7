@@ -8,7 +8,7 @@ I'm a software engineer and research scientist in training as a Ph.D. student un
 
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="75"> A little more about me... 
-<img align="left" width="200" height="200" src="https://github.com/HuyTu7/HuyTu7/blob/main/octocat.gif?raw=true"></a>
+<img align="left" width="220" height="220" src="https://github.com/HuyTu7/HuyTu7/blob/main/octocat.gif?raw=true"></a>
 - 🔭 I’m currently exploring the synergy between ML and SE for non-traditional software development such as computational scientists.
 - 🌱 I’m currently learning optimization techniques in DL, CV along with cooking and playing guitar.
 - 💻 I’m looking to collaborate on ML competitions
