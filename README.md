@@ -11,7 +11,7 @@
 
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="75"> A little more about me... 
-<img align="left" width="250" height="275" src="https://github.com/HuyTu7/HuyTu7/blob/main/ezgif.com-gif-maker.gif?raw=true"></a>
+<img align="left" width="275" height="300" src="https://github.com/HuyTu7/HuyTu7/blob/main/ezgif.com-gif-maker.gif?raw=true"></a>
  🔭 I’m currently exploring the synergy between ML/AI and social goods.
  
  🌱 I’m currently learning optimization techniques in DL, CV along with cooking and playing guitar.
