@@ -10,8 +10,8 @@
  I'm a software engineer and research scientist always learning. I am a Ph.D. graduate from the RAISE lab [Dr. Menzies](http://menzies.us/) (h-index: 62) with some industry experience, ex-Pinterest and ex-Facebook ML Engineer Intern in Users with Contents Personalization and ex-Amazon Applied Scientist Intern in Multilingual Understanding. I am passionate about making socio-tech environment more accessible while creating technologies to elevate marginalized folks, and building sustainable communities. 
 
 ---
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="75" height="175"> A little more about me... 
-<img align="left" width="250" height="250" src="https://github.com/HuyTu7/HuyTu7/blob/main/ezgif.com-gif-maker.gif?raw=true"></a>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="75"> A little more about me... 
+<img align="left" width="250" height="275" src="https://github.com/HuyTu7/HuyTu7/blob/main/ezgif.com-gif-maker.gif?raw=true"></a>
  🔭 I’m currently exploring the synergy between ML/AI and social goods.
  
  🌱 I’m currently learning optimization techniques in DL, CV along with cooking and playing guitar.
