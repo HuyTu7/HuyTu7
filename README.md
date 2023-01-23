@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150">
-<h1> Hi! I'm <a href="http://kentu.us" target="_blank">Ken Tu</a> </h1>
+<h1> Hi! I'm <a href="http://kentu.us" target="_blank">Huy (Ken) Tu</a> </h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=HuyTu7)
 <!--
