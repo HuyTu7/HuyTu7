@@ -1,12 +1,13 @@
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150"></h1>
-
-<h1> Hi! I'm <a href="http://kentu.us" target="_blank">Ken Tu</a>
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150">
+<h1> Hi! I'm <a href="http://kentu.us" target="_blank">Ken Tu</a> </h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=HuyTu7)
 <!--
 **HuyTu7/HuyTu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
 
-I'm a software engineer and research scientist always learning. I am a Ph.D. graduate from the RAISE lab [Dr. Menzies](http://menzies.us/) (h-index: 62) with some industry experience, ex-Pinterest and ex-Facebook ML Engineer Intern in Users with Contents Personalization and ex-Amazon Applied Scientist Intern in Multilingual Understanding. I am passionate about making socio-tech environment more accessible while creating technologies to elevate marginalized folks, and building sustainable communities. 
+
+  
+ I'm a software engineer and research scientist always learning. I am a Ph.D. graduate from the RAISE lab [Dr. Menzies](http://menzies.us/) (h-index: 62) with some industry experience, ex-Pinterest and ex-Facebook ML Engineer Intern in Users with Contents Personalization and ex-Amazon Applied Scientist Intern in Multilingual Understanding. I am passionate about making socio-tech environment more accessible while creating technologies to elevate marginalized folks, and building sustainable communities. 
 
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="75"> A little more about me... 
