@@ -13,11 +13,17 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="75"> A little more about me... 
 <img align="left" width="250" height="250" src="https://github.com/HuyTu7/HuyTu7/blob/main/ezgif.com-gif-maker.gif?raw=true"></a>
  🔭 I’m currently exploring the synergy between ML/AI and social goods.
+ 
  🌱 I’m currently learning optimization techniques in DL, CV along with cooking and playing guitar.
+ 
  💻 I’m looking to collaborate on ML competitions
+ 
  💬 Ask me about social issues, intersection between tech and personal identities, or if you just want to chat, I am happy to meet and get to know more people. 
+ 
  😄 Pronouns: he/they
+ 
  ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
+ 
  👯 Updates : Actively looking for full-time opportunities 2023 in the field of ML, NLP, SLT, CV, etc.
 
 
