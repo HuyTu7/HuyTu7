@@ -22,7 +22,7 @@
 
 
 ### You can find me on:
-📫 [E-mail](mailto:hqtu@ncsu.edu?subject=[GitHub]%20Source%20Readme)
+📫 [E-mail](mailto:huyqtu7@gmail.com?subject=[GitHub]%20Source%20Readme)
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
